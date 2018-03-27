@@ -8,5 +8,6 @@ namespace WorkWinderSQLite
 {
     public class Class1
     {
+
     }
 }
